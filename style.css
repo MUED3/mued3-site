@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SukhumvitSet';
+    src: url('https://github.com/bluenex/baansuan_prannok/raw/master/fonts/sukhumvit-set/SukhumvitSet-Text.ttf') format('truetype');
+}
+
+body {
+    font-family: 'SukhumvitSet', sans-serif;
+}
